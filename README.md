@@ -200,4 +200,4 @@ The model, tokenizer, intent pipeline, argument parser, validator, executor, and
 
 ---
 
-Built by **4mulaMind**
+Built by **Abdul Qadir**
