@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.DS_Store
+
+# Model checkpoints / large artifacts
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Large generated datasets / training artifacts
+data/packets/
+data/run4_train.jsonl
+data/train_backup.txt
+data/train_backup_before_expansion.txt
+data/train_v1.txt
+data/4mulaquery_sft_backup.jsonl
+data/4mulaquery_sft_raw.jsonl
+
+# Temporary files
+*.save

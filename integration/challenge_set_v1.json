@@ -1,0 +1,62 @@
+[
+  {
+    "instruction": "Find the user with id 42",
+    "expected": "search id=42"
+  },
+  {
+    "instruction": "Who is user number 317?",
+    "expected": "search id=317"
+  },
+  {
+    "instruction": "Show me user 88",
+    "expected": "search id=88"
+  },
+  {
+    "instruction": "Delete user 25",
+    "expected": "delete id=25"
+  },
+  {
+    "instruction": "Could you remove account 31?",
+    "expected": "delete id=31"
+  },
+  {
+    "instruction": "Show all users",
+    "expected": "all"
+  },
+  {
+    "instruction": "Give me every user record",
+    "expected": "all"
+  },
+  {
+    "instruction": "Insert user with id 9000, username abdul, and email abdul@gmail.com",
+    "expected": "insert id=9000 username=abdul email=abdul@gmail.com"
+  },
+  {
+    "instruction": "Create a user with id 9012, username ali, and email ali@example.com",
+    "expected": "insert id=9012 username=ali email=ali@example.com"
+  },
+  {
+    "instruction": "Create a new user",
+    "expected": "INVALID"
+  },
+  {
+    "instruction": "Delete a user",
+    "expected": "INVALID"
+  },
+  {
+    "instruction": "Can you find by username",
+    "expected": "INVALID"
+  },
+  {
+    "instruction": "bhai user 42 dikhao",
+    "expected": "search id=42"
+  },
+  {
+    "instruction": "user 91 hata do",
+    "expected": "delete id=91"
+  },
+  {
+    "instruction": "saare users dikhao",
+    "expected": "all"
+  }
+]

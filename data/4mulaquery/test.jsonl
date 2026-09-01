@@ -1,0 +1,1000 @@
+{"instruction": "Get rid of user 277", "output": "delete id=277"}
+{"instruction": "Delete record 63", "output": "delete id=63"}
+{"instruction": "Search user with id 304", "output": "search id=304"}
+{"instruction": "Display the complete user list currently available", "output": "all"}
+{"instruction": "Display the full user database please", "output": "all"}
+{"instruction": "Delete the user with id 223", "output": "delete id=223"}
+{"instruction": "Delete the user with id 6", "output": "delete id=6"}
+{"instruction": "Search user with id 325", "output": "search id=325"}
+{"instruction": "Delete the user with id 300", "output": "delete id=300"}
+{"instruction": "Retrieve user 215", "output": "search id=215"}
+{"instruction": "Find user 122", "output": "search id=122"}
+{"instruction": "Fetch every record currently stored", "output": "all"}
+{"instruction": "Create a user with id 3245, username sam45, and email sam45@proton.me", "output": "insert id=3245 username=sam45 email=sam45@proton.me"}
+{"instruction": "Give me the complete user list in the system", "output": "all"}
+{"instruction": "Erase user 261", "output": "delete id=261"}
+{"instruction": "I need the record for user 218", "output": "search id=218"}
+{"instruction": "Search user with id 13", "output": "search id=13"}
+{"instruction": "Show me user 471", "output": "search id=471"}
+{"instruction": "Can you delete the account", "output": "INVALID"}
+{"instruction": "Return all accounts in the system", "output": "all"}
+{"instruction": "Please create user priya71, id 3971, email priya71@example.com", "output": "insert id=3971 username=priya71 email=priya71@example.com"}
+{"instruction": "Please do something with user 10 somehow", "output": "INVALID"}
+{"instruction": "Add priya32 to the database with id 3932 and email priya32@mail.com", "output": "insert id=3932 username=priya32 email=priya32@mail.com"}
+{"instruction": "Find user 450", "output": "search id=450"}
+{"instruction": "Can you find user 434?", "output": "search id=434"}
+{"instruction": "Show me user 415", "output": "search id=415"}
+{"instruction": "Find the user with id 441", "output": "search id=441"}
+{"instruction": "Erase user 299", "output": "delete id=299"}
+{"instruction": "Find user 66", "output": "search id=66"}
+{"instruction": "Remove user 168", "output": "delete id=168"}
+{"instruction": "Search for user 73", "output": "search id=73"}
+{"instruction": "Find user 184", "output": "search id=184"}
+{"instruction": "Show user rahul", "output": "search username=rahul"}
+{"instruction": "Can you create a new user if possible", "output": "INVALID"}
+{"instruction": "Fetch every user record right now", "output": "all"}
+{"instruction": "Add this user: id 1477, username rohit77, email rohit77@proton.me", "output": "insert id=1477 username=rohit77 email=rohit77@proton.me"}
+{"instruction": "Get rid of user 265", "output": "delete id=265"}
+{"instruction": "Would you create user Abdul", "output": "INVALID"}
+{"instruction": "Add a new user with id 1578, username amit78, and email amit78@outlook.com", "output": "insert id=1578 username=amit78 email=amit78@outlook.com"}
+{"instruction": "Get user 158", "output": "search id=158"}
+{"instruction": "Save a new user with id 2955, username olivia55, email olivia55@example.com", "output": "insert id=2955 username=olivia55 email=olivia55@example.com"}
+{"instruction": "Return the complete set of records from the user table", "output": "all"}
+{"instruction": "Remove account 16", "output": "delete id=16"}
+{"instruction": "Get the user whose ID is 154", "output": "search id=154"}
+{"instruction": "I need the record for user 398", "output": "search id=398"}
+{"instruction": "I need the record for user 168", "output": "search id=168"}
+{"instruction": "Get the complete user list in the system", "output": "all"}
+{"instruction": "Give me all user entries", "output": "all"}
+{"instruction": "I want you to update the user right now", "output": "INVALID"}
+{"instruction": "Find the user with id 439", "output": "search id=439"}
+{"instruction": "Would you insert a user right now", "output": "INVALID"}
+{"instruction": "Add this user: id 3277, username sam77, email sam77@proton.me", "output": "insert id=3277 username=sam77 email=sam77@proton.me"}
+{"instruction": "Remove account 56", "output": "delete id=56"}
+{"instruction": "Show every user from storage", "output": "all"}
+{"instruction": "Return all users currently stored", "output": "all"}
+{"instruction": "Look up user 421", "output": "search id=421"}
+{"instruction": "Get the user whose ID is 489", "output": "search id=489"}
+{"instruction": "I need the record for user 380", "output": "search id=380"}
+{"instruction": "Would you delete whoever is logged in today", "output": "INVALID"}
+{"instruction": "Remove user 147", "output": "delete id=147"}
+{"instruction": "Store user chris30 with id 3130 and email chris30@outlook.com", "output": "insert id=3130 username=chris30 email=chris30@outlook.com"}
+{"instruction": "Can you find user 324?", "output": "search id=324"}
+{"instruction": "Please create user arjun43, id 1643, email arjun43@example.com", "output": "insert id=1643 username=arjun43 email=arjun43@example.com"}
+{"instruction": "Create this account: id 1730, username vikas30, email vikas30@outlook.com", "output": "insert id=1730 username=vikas30 email=vikas30@outlook.com"}
+{"instruction": "Kindly delete a user", "output": "INVALID"}
+{"instruction": "Remove user 136", "output": "delete id=136"}
+{"instruction": "Insert user with id 3, username ahmed, and email ahmed@gmail.com", "output": "insert id=3 username=ahmed email=ahmed@gmail.com"}
+{"instruction": "Please delete the account somehow", "output": "INVALID"}
+{"instruction": "Look up user 46", "output": "search id=46"}
+{"instruction": "Who is user 8?", "output": "search id=8"}
+{"instruction": "Would you change user details if possible", "output": "INVALID"}
+{"instruction": "Search user with id 355", "output": "search id=355"}
+{"instruction": "Delete the user with id 129", "output": "delete id=129"}
+{"instruction": "Show user number 385", "output": "search id=385"}
+{"instruction": "Please create user olivia87, id 2987, email olivia87@example.com", "output": "insert id=2987 username=olivia87 email=olivia87@example.com"}
+{"instruction": "Remove account 24", "output": "delete id=24"}
+{"instruction": "Show the complete user list from storage", "output": "all"}
+{"instruction": "Get the user whose ID is 216", "output": "search id=216"}
+{"instruction": "Store user sam26 with id 3226 and email sam26@outlook.com", "output": "insert id=3226 username=sam26 email=sam26@outlook.com"}
+{"instruction": "Could you delete by username as soon as possible", "output": "INVALID"}
+{"instruction": "I need you to add a user as soon as possible", "output": "INVALID"}
+{"instruction": "Add this user: id 3145, username chris45, email chris45@yahoo.com", "output": "insert id=3145 username=chris45 email=chris45@yahoo.com"}
+{"instruction": "Delete the user with id 54", "output": "delete id=54"}
+{"instruction": "Delete user 17", "output": "delete id=17"}
+{"instruction": "Find the user with id 292", "output": "search id=292"}
+{"instruction": "Delete record 233", "output": "delete id=233"}
+{"instruction": "Please insert user priya72, id 3972, email priya72@mail.com", "output": "insert id=3972 username=priya72 email=priya72@mail.com"}
+{"instruction": "Erase user 11", "output": "delete id=11"}
+{"instruction": "Delete user 205", "output": "delete id=205"}
+{"instruction": "Remove account 21", "output": "delete id=21"}
+{"instruction": "Search user with id 467", "output": "search id=467"}
+{"instruction": "Register user rahul65 with id 1365 and email rahul65@proton.me", "output": "insert id=1365 username=rahul65 email=rahul65@proton.me"}
+{"instruction": "Get all users available in the system", "output": "all"}
+{"instruction": "Register user amit57 with id 1557 and email amit57@proton.me", "output": "insert id=1557 username=amit57 email=amit57@proton.me"}
+{"instruction": "Kindly do something with user 10 in the system", "output": "INVALID"}
+{"instruction": "Who is user 67?", "output": "search id=67"}
+{"instruction": "Show me user 431", "output": "search id=431"}
+{"instruction": "Fetch all user records available in the system", "output": "all"}
+{"instruction": "Search for user 378", "output": "search id=378"}
+{"instruction": "Save a new user with id 1503, username amit3, email amit3@hotmail.com", "output": "insert id=1503 username=amit3 email=amit3@hotmail.com"}
+{"instruction": "I need you to find by username for me", "output": "INVALID"}
+{"instruction": "Remove the user with ID 33", "output": "delete id=33"}
+{"instruction": "Add a new user with id 1830, username raj30, and email raj30@icloud.com", "output": "insert id=1830 username=raj30 email=raj30@icloud.com"}
+{"instruction": "Delete user 232", "output": "delete id=232"}
+{"instruction": "Could you remove the account", "output": "INVALID"}
+{"instruction": "Remove account 294", "output": "delete id=294"}
+{"instruction": "Display all user entries today", "output": "all"}
+{"instruction": "Create a user with id 3185, username chris85, and email chris85@yahoo.com", "output": "insert id=3185 username=chris85 email=chris85@yahoo.com"}
+{"instruction": "Show me user 166", "output": "search id=166"}
+{"instruction": "Insert user with id 1096, username abdul96, and email abdul96@gmail.com", "output": "insert id=1096 username=abdul96 email=abdul96@gmail.com"}
+{"instruction": "Kindly find someone as soon as possible", "output": "INVALID"}
+{"instruction": "Would you add a new account as soon as possible", "output": "INVALID"}
+{"instruction": "Get user 288", "output": "search id=288"}
+{"instruction": "Store user neha70 with id 3670 and email neha70@icloud.com", "output": "insert id=3670 username=neha70 email=neha70@icloud.com"}
+{"instruction": "Fetch the user with ID 3", "output": "search id=3"}
+{"instruction": "Insert user with id 2068, username sarah68, and email sarah68@mail.com", "output": "insert id=2068 username=sarah68 email=sarah68@mail.com"}
+{"instruction": "Save a new user with id 3915, username priya15, email priya15@example.com", "output": "insert id=3915 username=priya15 email=priya15@example.com"}
+{"instruction": "find by username please", "output": "INVALID"}
+{"instruction": "Get the complete user list from storage", "output": "all"}
+{"instruction": "Delete account 100", "output": "delete id=100"}
+{"instruction": "Return every account for me", "output": "all"}
+{"instruction": "Provide all user accounts for me", "output": "all"}
+{"instruction": "Who is user 401?", "output": "search id=401"}
+{"instruction": "Add this user: id 2797, username jack97, email jack97@proton.me", "output": "insert id=2797 username=jack97 email=jack97@proton.me"}
+{"instruction": "Provide the complete user table from the user table", "output": "all"}
+{"instruction": "Insert user with id 1444, username rohit44, and email rohit44@mail.com", "output": "insert id=1444 username=rohit44 email=rohit44@mail.com"}
+{"instruction": "Can you add Abdul to the database right now", "output": "INVALID"}
+{"instruction": "I want you to add Abdul to the database if possible", "output": "INVALID"}
+{"instruction": "Search user with id 367", "output": "search id=367"}
+{"instruction": "Delete user 30", "output": "delete id=30"}
+{"instruction": "Find user 150", "output": "search id=150"}
+{"instruction": "Delete record 223", "output": "delete id=223"}
+{"instruction": "Get rid of user 85", "output": "delete id=85"}
+{"instruction": "Would you do something with user 10 if possible", "output": "INVALID"}
+{"instruction": "Remove user 10", "output": "delete id=10"}
+{"instruction": "Get the user whose ID is 160", "output": "search id=160"}
+{"instruction": "I need you to find by username right now", "output": "INVALID"}
+{"instruction": "Remove user 294", "output": "delete id=294"}
+{"instruction": "Search user with id 488", "output": "search id=488"}
+{"instruction": "Fetch every entry today", "output": "all"}
+{"instruction": "show me the database for me", "output": "INVALID"}
+{"instruction": "I want you to delete whoever is logged in for me", "output": "INVALID"}
+{"instruction": "Erase user 212", "output": "delete id=212"}
+{"instruction": "Fetch the user with ID 109", "output": "search id=109"}
+{"instruction": "Please remove someone today", "output": "INVALID"}
+{"instruction": "Show user number 158", "output": "search id=158"}
+{"instruction": "Get user 404", "output": "search id=404"}
+{"instruction": "Delete record 87", "output": "delete id=87"}
+{"instruction": "Please create user amit11, id 1511, email amit11@hotmail.com", "output": "insert id=1511 username=amit11 email=amit11@hotmail.com"}
+{"instruction": "Show every record currently available", "output": "all"}
+{"instruction": "Add a new user with id 3858, username sumit58, and email sumit58@outlook.com", "output": "insert id=3858 username=sumit58 email=sumit58@outlook.com"}
+{"instruction": "Kindly create an account today", "output": "INVALID"}
+{"instruction": "Get rid of user 87", "output": "delete id=87"}
+{"instruction": "Can you find someone from the database", "output": "INVALID"}
+{"instruction": "Kindly remove someone for me", "output": "INVALID"}
+{"instruction": "Remove the user with ID 74", "output": "delete id=74"}
+{"instruction": "Get user 445", "output": "search id=445"}
+{"instruction": "Remove account 268", "output": "delete id=268"}
+{"instruction": "Retrieve user 179", "output": "search id=179"}
+{"instruction": "Look up maria", "output": "search username=maria"}
+{"instruction": "Get rid of user 295", "output": "delete id=295"}
+{"instruction": "Delete user 39", "output": "delete id=39"}
+{"instruction": "Get the complete list of users currently stored", "output": "all"}
+{"instruction": "I need the record for user 290", "output": "search id=290"}
+{"instruction": "Store user ali98 with id 1198 and email ali98@icloud.com", "output": "insert id=1198 username=ali98 email=ali98@icloud.com"}
+{"instruction": "Please create user daniel43, id 2843, email daniel43@example.com", "output": "insert id=2843 username=daniel43 email=daniel43@example.com"}
+{"instruction": "I need you to create a new user in the system", "output": "INVALID"}
+{"instruction": "Create a user with id 3413, username anna13, and email anna13@proton.me", "output": "insert id=3413 username=anna13 email=anna13@proton.me"}
+{"instruction": "Please create user john35, id 2135, email john35@hotmail.com", "output": "insert id=2135 username=john35 email=john35@hotmail.com"}
+{"instruction": "Retrieve user 354", "output": "search id=354"}
+{"instruction": "Can you find user 477?", "output": "search id=477"}
+{"instruction": "Search for user 305", "output": "search id=305"}
+{"instruction": "Delete account 260", "output": "delete id=260"}
+{"instruction": "Show the whole user list from storage", "output": "all"}
+{"instruction": "Add david96 to the database with id 2396 and email david96@mail.com", "output": "insert id=2396 username=david96 email=david96@mail.com"}
+{"instruction": "Search for user 328", "output": "search id=328"}
+{"instruction": "Retrieve the entire user table please", "output": "all"}
+{"instruction": "Erase user 146", "output": "delete id=146"}
+{"instruction": "Delete record 76", "output": "delete id=76"}
+{"instruction": "I need the record for user 13", "output": "search id=13"}
+{"instruction": "Retrieve user 141", "output": "search id=141"}
+{"instruction": "Delete user 4", "output": "delete id=4"}
+{"instruction": "Create user ravi59 with id 3559 and email ravi59@hotmail.com", "output": "insert id=3559 username=ravi59 email=ravi59@hotmail.com"}
+{"instruction": "Remove account 244", "output": "delete id=244"}
+{"instruction": "Fetch the entire user table from storage", "output": "all"}
+{"instruction": "Please create user daniel55, id 2855, email daniel55@hotmail.com", "output": "insert id=2855 username=daniel55 email=daniel55@hotmail.com"}
+{"instruction": "Add a new user with id 2058, username sarah58, and email sarah58@outlook.com", "output": "insert id=2058 username=sarah58 email=sarah58@outlook.com"}
+{"instruction": "Create a user with id 3041, username michael41, and email michael41@yahoo.com", "output": "insert id=3041 username=michael41 email=michael41@yahoo.com"}
+{"instruction": "Would you change user details from the database", "output": "INVALID"}
+{"instruction": "Please insert user maria12, id 2412, email maria12@mail.com", "output": "insert id=2412 username=maria12 email=maria12@mail.com"}
+{"instruction": "I need you to change user details", "output": "INVALID"}
+{"instruction": "Delete user 112", "output": "delete id=112"}
+{"instruction": "Delete account 114", "output": "delete id=114"}
+{"instruction": "Search for user 93", "output": "search id=93"}
+{"instruction": "Get the user whose ID is 9", "output": "search id=9"}
+{"instruction": "Create user abdul27 with id 1027 and email abdul27@example.com", "output": "insert id=1027 username=abdul27 email=abdul27@example.com"}
+{"instruction": "Get the user whose ID is 6", "output": "search id=6"}
+{"instruction": "Retrieve user 313", "output": "search id=313"}
+{"instruction": "Delete record 162", "output": "delete id=162"}
+{"instruction": "Provide the whole user list right now", "output": "all"}
+{"instruction": "Insert user with id 3100, username michael100, and email michael100@mail.com", "output": "insert id=3100 username=michael100 email=michael100@mail.com"}
+{"instruction": "Delete user john", "output": "delete username=john"}
+{"instruction": "Create a user with id 1541, username amit41, and email amit41@proton.me", "output": "insert id=1541 username=amit41 email=amit41@proton.me"}
+{"instruction": "Remove account 7", "output": "delete id=7"}
+{"instruction": "Display every entry right now", "output": "all"}
+{"instruction": "Show user number 171", "output": "search id=171"}
+{"instruction": "remove a record today", "output": "INVALID"}
+{"instruction": "Get rid of user 213", "output": "delete id=213"}
+{"instruction": "Add a new user with id 2718, username jack18, and email jack18@icloud.com", "output": "insert id=2718 username=jack18 email=jack18@icloud.com"}
+{"instruction": "Provide the entire user table currently available", "output": "all"}
+{"instruction": "Can you find user 278?", "output": "search id=278"}
+{"instruction": "Remove the user with ID 68", "output": "delete id=68"}
+{"instruction": "I need the record for user 430", "output": "search id=430"}
+{"instruction": "Get rid of user 52", "output": "delete id=52"}
+{"instruction": "Remove account 25", "output": "delete id=25"}
+{"instruction": "Add this user: id 1585, username amit85, email amit85@yahoo.com", "output": "insert id=1585 username=amit85 email=amit85@yahoo.com"}
+{"instruction": "I need the record for user 346", "output": "search id=346"}
+{"instruction": "create a new user somehow", "output": "INVALID"}
+{"instruction": "Get rid of user 91", "output": "delete id=91"}
+{"instruction": "Please create user tom71, id 3371, email tom71@example.com", "output": "insert id=3371 username=tom71 email=tom71@example.com"}
+{"instruction": "search by email in the system", "output": "INVALID"}
+{"instruction": "I want you to make a user as soon as possible", "output": "INVALID"}
+{"instruction": "Add a new user with id 1590, username amit90, and email amit90@icloud.com", "output": "insert id=1590 username=amit90 email=amit90@icloud.com"}
+{"instruction": "Please find someone please", "output": "INVALID"}
+{"instruction": "Register user maria33 with id 2433 and email maria33@yahoo.com", "output": "insert id=2433 username=maria33 email=maria33@yahoo.com"}
+{"instruction": "I need the record for user 53", "output": "search id=53"}
+{"instruction": "Return all user accounts for this request", "output": "all"}
+{"instruction": "Fetch the user with ID 444", "output": "search id=444"}
+{"instruction": "List all accounts for this request", "output": "all"}
+{"instruction": "Delete the user with id 163", "output": "delete id=163"}
+{"instruction": "Remove account 217", "output": "delete id=217"}
+{"instruction": "Get rid of user 67", "output": "delete id=67"}
+{"instruction": "Get the user whose ID is 273", "output": "search id=273"}
+{"instruction": "Get all accounts for this request", "output": "all"}
+{"instruction": "Get all entries currently stored", "output": "all"}
+{"instruction": "Show all accounts", "output": "all"}
+{"instruction": "Give me the entire user table from the user table", "output": "all"}
+{"instruction": "Find the user with id 452", "output": "search id=452"}
+{"instruction": "Return every user record right now", "output": "all"}
+{"instruction": "Get all user accounts in the user table", "output": "all"}
+{"instruction": "Register user neha33 with id 3633 and email neha33@yahoo.com", "output": "insert id=3633 username=neha33 email=neha33@yahoo.com"}
+{"instruction": "Remove user 176", "output": "delete id=176"}
+{"instruction": "Delete user 140", "output": "delete id=140"}
+{"instruction": "I want you to create a new user right now", "output": "INVALID"}
+{"instruction": "Get rid of user 136", "output": "delete id=136"}
+{"instruction": "Retrieve user 290", "output": "search id=290"}
+{"instruction": "Delete record 19", "output": "delete id=19"}
+{"instruction": "Display the complete set of records available in the system", "output": "all"}
+{"instruction": "Remove user 160", "output": "delete id=160"}
+{"instruction": "Get the user whose ID is 174", "output": "search id=174"}
+{"instruction": "Remove account 225", "output": "delete id=225"}
+{"instruction": "Remove the user with ID 1", "output": "delete id=1"}
+{"instruction": "Can you show me the database in the system", "output": "INVALID"}
+{"instruction": "Remove user 138", "output": "delete id=138"}
+{"instruction": "Delete the user with id 10", "output": "delete id=10"}
+{"instruction": "Get rid of user 90", "output": "delete id=90"}
+{"instruction": "Show user number 263", "output": "search id=263"}
+{"instruction": "Search for user 158", "output": "search id=158"}
+{"instruction": "Delete record 231", "output": "delete id=231"}
+{"instruction": "Delete account 63", "output": "delete id=63"}
+{"instruction": "I need the record for user 497", "output": "search id=497"}
+{"instruction": "Insert user with id 2392, username david92, and email david92@gmail.com", "output": "insert id=2392 username=david92 email=david92@gmail.com"}
+{"instruction": "Get user 464", "output": "search id=464"}
+{"instruction": "Could you add a new account right now", "output": "INVALID"}
+{"instruction": "Fetch all user records currently available", "output": "all"}
+{"instruction": "Delete the user with email maria@gmail.com", "output": "delete email=maria@gmail.com"}
+{"instruction": "Create a user with id 1025, username abdul25, and email abdul25@yahoo.com", "output": "insert id=1025 username=abdul25 email=abdul25@yahoo.com"}
+{"instruction": "Remove user 69", "output": "delete id=69"}
+{"instruction": "Remove account 200", "output": "delete id=200"}
+{"instruction": "Create a user with id 1253, username ahmed53, and email ahmed53@proton.me", "output": "insert id=1253 username=ahmed53 email=ahmed53@proton.me"}
+{"instruction": "I need the record for user 204", "output": "search id=204"}
+{"instruction": "Store user sam62 with id 3262 and email sam62@icloud.com", "output": "insert id=3262 username=sam62 email=sam62@icloud.com"}
+{"instruction": "Register user tom9 with id 3309 and email tom9@proton.me", "output": "insert id=3309 username=tom9 email=tom9@proton.me"}
+{"instruction": "Delete record 119", "output": "delete id=119"}
+{"instruction": "Return the complete set of records currently available", "output": "all"}
+{"instruction": "Show the complete user table currently stored", "output": "all"}
+{"instruction": "Search for user 308", "output": "search id=308"}
+{"instruction": "Save a new user with id 3363, username tom63, email tom63@example.com", "output": "insert id=3363 username=tom63 email=tom63@example.com"}
+{"instruction": "Create this account: id 3314, username tom14, email tom14@outlook.com", "output": "insert id=3314 username=tom14 email=tom14@outlook.com"}
+{"instruction": "Give me the complete user list please", "output": "all"}
+{"instruction": "Show me user 161", "output": "search id=161"}
+{"instruction": "Find the user with id 162", "output": "search id=162"}
+{"instruction": "Find user 72", "output": "search id=72"}
+{"instruction": "Delete account 111", "output": "delete id=111"}
+{"instruction": "Show the complete user table today", "output": "all"}
+{"instruction": "Remove account 73", "output": "delete id=73"}
+{"instruction": "Store user michael82 with id 3082 and email michael82@outlook.com", "output": "insert id=3082 username=michael82 email=michael82@outlook.com"}
+{"instruction": "Remove account 203", "output": "delete id=203"}
+{"instruction": "Create user karan27 with id 1927 and email karan27@hotmail.com", "output": "insert id=1927 username=karan27 email=karan27@hotmail.com"}
+{"instruction": "Delete account 79", "output": "delete id=79"}
+{"instruction": "Please help me add Abdul to the database from the database", "output": "INVALID"}
+{"instruction": "Can you find user 431?", "output": "search id=431"}
+{"instruction": "Please create user david39, id 2339, email david39@example.com", "output": "insert id=2339 username=david39 email=david39@example.com"}
+{"instruction": "Could you remove the account today", "output": "INVALID"}
+{"instruction": "Remove the user with ID 43", "output": "delete id=43"}
+{"instruction": "Delete the user named daniel", "output": "delete username=daniel"}
+{"instruction": "delete by username as soon as possible", "output": "INVALID"}
+{"instruction": "Look up tom", "output": "search username=tom"}
+{"instruction": "Can you find user 416?", "output": "search id=416"}
+{"instruction": "Create a user with id 2549, username emma49, and email emma49@proton.me", "output": "insert id=2549 username=emma49 email=emma49@proton.me"}
+{"instruction": "Store user sumit38 with id 3838 and email sumit38@icloud.com", "output": "insert id=3838 username=sumit38 email=sumit38@icloud.com"}
+{"instruction": "Delete the user with id 142", "output": "delete id=142"}
+{"instruction": "I need the record for user 201", "output": "search id=201"}
+{"instruction": "Please create user olivia3, id 2903, email olivia3@hotmail.com", "output": "insert id=2903 username=olivia3 email=olivia3@hotmail.com"}
+{"instruction": "Could you insert a user as soon as possible", "output": "INVALID"}
+{"instruction": "Who is user 170?", "output": "search id=170"}
+{"instruction": "Find user 371", "output": "search id=371"}
+{"instruction": "Please create user olivia99, id 2999, email olivia99@hotmail.com", "output": "insert id=2999 username=olivia99 email=olivia99@hotmail.com"}
+{"instruction": "Find user 280", "output": "search id=280"}
+{"instruction": "Create this account: id 2858, username daniel58, email daniel58@outlook.com", "output": "insert id=2858 username=daniel58 email=daniel58@outlook.com"}
+{"instruction": "Delete account 87", "output": "delete id=87"}
+{"instruction": "Can you add a new account right now", "output": "INVALID"}
+{"instruction": "Insert user with id 2140, username john40, and email john40@mail.com", "output": "insert id=2140 username=john40 email=john40@mail.com"}
+{"instruction": "Search user with id 342", "output": "search id=342"}
+{"instruction": "Delete record 261", "output": "delete id=261"}
+{"instruction": "Return all records available in the system", "output": "all"}
+{"instruction": "Save a new user with id 2775, username jack75, email jack75@hotmail.com", "output": "insert id=2775 username=jack75 email=jack75@hotmail.com"}
+{"instruction": "Show user number 179", "output": "search id=179"}
+{"instruction": "Remove account 54", "output": "delete id=54"}
+{"instruction": "Find user 182", "output": "search id=182"}
+{"instruction": "Can you find user 441?", "output": "search id=441"}
+{"instruction": "Please create an account for Abdul somehow", "output": "INVALID"}
+{"instruction": "Remove account 144", "output": "delete id=144"}
+{"instruction": "Return all users right now", "output": "all"}
+{"instruction": "Remove user 67", "output": "delete id=67"}
+{"instruction": "Create this account: id 2030, username sarah30, email sarah30@icloud.com", "output": "insert id=2030 username=sarah30 email=sarah30@icloud.com"}
+{"instruction": "I want you to add a new account today", "output": "INVALID"}
+{"instruction": "Give me every record for this request", "output": "all"}
+{"instruction": "I need the record for user 339", "output": "search id=339"}
+{"instruction": "List all user entries in the database", "output": "all"}
+{"instruction": "Find the user with id 218", "output": "search id=218"}
+{"instruction": "Delete the user with id 285", "output": "delete id=285"}
+{"instruction": "find someone for me", "output": "INVALID"}
+{"instruction": "Delete the user with id 215", "output": "delete id=215"}
+{"instruction": "Add a new user with id 1014, username abdul14, and email abdul14@icloud.com", "output": "insert id=1014 username=abdul14 email=abdul14@icloud.com"}
+{"instruction": "Get user 456", "output": "search id=456"}
+{"instruction": "Delete record 218", "output": "delete id=218"}
+{"instruction": "Search user with id 423", "output": "search id=423"}
+{"instruction": "Erase user 250", "output": "delete id=250"}
+{"instruction": "Create a user with id 3881, username sumit81, and email sumit81@yahoo.com", "output": "insert id=3881 username=sumit81 email=sumit81@yahoo.com"}
+{"instruction": "Erase user 193", "output": "delete id=193"}
+{"instruction": "Delete record 220", "output": "delete id=220"}
+{"instruction": "Remove the user with ID 214", "output": "delete id=214"}
+{"instruction": "Create user daniel3 with id 2803 and email daniel3@example.com", "output": "insert id=2803 username=daniel3 email=daniel3@example.com"}
+{"instruction": "Get every user right now", "output": "all"}
+{"instruction": "Create this account: id 1322, username rahul22, email rahul22@outlook.com", "output": "insert id=1322 username=rahul22 email=rahul22@outlook.com"}
+{"instruction": "Who is rahul?", "output": "search username=rahul"}
+{"instruction": "Search for user 162", "output": "search id=162"}
+{"instruction": "Fetch the user with ID 347", "output": "search id=347"}
+{"instruction": "Add a new user with id 1602, username arjun2, and email arjun2@outlook.com", "output": "insert id=1602 username=arjun2 email=arjun2@outlook.com"}
+{"instruction": "Display all user entries currently available", "output": "all"}
+{"instruction": "Find user 294", "output": "search id=294"}
+{"instruction": "List all user accounts today", "output": "all"}
+{"instruction": "Add this user: id 2713, username jack13, email jack13@yahoo.com", "output": "insert id=2713 username=jack13 email=jack13@yahoo.com"}
+{"instruction": "Search for user 42", "output": "search id=42"}
+{"instruction": "Who is user 43?", "output": "search id=43"}
+{"instruction": "Delete user 259", "output": "delete id=259"}
+{"instruction": "Store user sarah14 with id 2014 and email sarah14@icloud.com", "output": "insert id=2014 username=sarah14 email=sarah14@icloud.com"}
+{"instruction": "Delete user 85", "output": "delete id=85"}
+{"instruction": "Would you create a new user right now", "output": "INVALID"}
+{"instruction": "Find the user with id 241", "output": "search id=241"}
+{"instruction": "I need the record for user 255", "output": "search id=255"}
+{"instruction": "Get the complete user list for this request", "output": "all"}
+{"instruction": "Get rid of user 134", "output": "delete id=134"}
+{"instruction": "Please find someone from the database", "output": "INVALID"}
+{"instruction": "List all user records please", "output": "all"}
+{"instruction": "Please create user Abdul please", "output": "INVALID"}
+{"instruction": "Find the user with id 331", "output": "search id=331"}
+{"instruction": "Display all records currently available", "output": "all"}
+{"instruction": "Display the complete set of users", "output": "all"}
+{"instruction": "Can you find user 417?", "output": "search id=417"}
+{"instruction": "Add this user: id 3109, username chris9, email chris9@proton.me", "output": "insert id=3109 username=chris9 email=chris9@proton.me"}
+{"instruction": "Search user with id 415", "output": "search id=415"}
+{"instruction": "I need the record for user 230", "output": "search id=230"}
+{"instruction": "Can you find user 466?", "output": "search id=466"}
+{"instruction": "Would you change user details as soon as possible", "output": "INVALID"}
+{"instruction": "Can you delete the account right now", "output": "INVALID"}
+{"instruction": "Fetch the user with ID 227", "output": "search id=227"}
+{"instruction": "Get all entries currently available", "output": "all"}
+{"instruction": "Save a new user with id 2619, username james19, email james19@example.com", "output": "insert id=2619 username=james19 email=james19@example.com"}
+{"instruction": "Create user ahmed67 with id 1267 and email ahmed67@example.com", "output": "insert id=1267 username=ahmed67 email=ahmed67@example.com"}
+{"instruction": "Store user abdul18 with id 1018 and email abdul18@outlook.com", "output": "insert id=1018 username=abdul18 email=abdul18@outlook.com"}
+{"instruction": "Remove account 86", "output": "delete id=86"}
+{"instruction": "Remove user 243", "output": "delete id=243"}
+{"instruction": "search id=42", "output": "search id=42"}
+{"instruction": "I need you to find the user somehow", "output": "INVALID"}
+{"instruction": "Add this user: id 3577, username ravi77, email ravi77@yahoo.com", "output": "insert id=3577 username=ravi77 email=ravi77@yahoo.com"}
+{"instruction": "Remove the user with ID 3", "output": "delete id=3"}
+{"instruction": "I need the record for user 25", "output": "search id=25"}
+{"instruction": "Can you find user 252?", "output": "search id=252"}
+{"instruction": "Retrieve user 318", "output": "search id=318"}
+{"instruction": "Delete account 85", "output": "delete id=85"}
+{"instruction": "Look up user 112", "output": "search id=112"}
+{"instruction": "Fetch the complete set of records today", "output": "all"}
+{"instruction": "Would you change user details somehow", "output": "INVALID"}
+{"instruction": "Please insert user rohit52, id 1452, email rohit52@mail.com", "output": "insert id=1452 username=rohit52 email=rohit52@mail.com"}
+{"instruction": "Remove account 220", "output": "delete id=220"}
+{"instruction": "Store user tom46 with id 3346 and email tom46@outlook.com", "output": "insert id=3346 username=tom46 email=tom46@outlook.com"}
+{"instruction": "Get the entire user table in the system", "output": "all"}
+{"instruction": "Delete the user with id 98", "output": "delete id=98"}
+{"instruction": "Who is user 226?", "output": "search id=226"}
+{"instruction": "Could you insert a user if possible", "output": "INVALID"}
+{"instruction": "Would you search for a user as soon as possible", "output": "INVALID"}
+{"instruction": "Return the complete user table in the system", "output": "all"}
+{"instruction": "Show user number 376", "output": "search id=376"}
+{"instruction": "Look up user 63", "output": "search id=63"}
+{"instruction": "Save a new user with id 2751, username jack51, email jack51@hotmail.com", "output": "insert id=2751 username=jack51 email=jack51@hotmail.com"}
+{"instruction": "Delete user 56", "output": "delete id=56"}
+{"instruction": "Remove user 79", "output": "delete id=79"}
+{"instruction": "Save a new user with id 2247, username alex47, email alex47@hotmail.com", "output": "insert id=2247 username=alex47 email=alex47@hotmail.com"}
+{"instruction": "Get user 402", "output": "search id=402"}
+{"instruction": "Add michael68 to the database with id 3068 and email michael68@mail.com", "output": "insert id=3068 username=michael68 email=michael68@mail.com"}
+{"instruction": "Kindly find the user", "output": "INVALID"}
+{"instruction": "Delete the user with id 257", "output": "delete id=257"}
+{"instruction": "Find user 98", "output": "search id=98"}
+{"instruction": "I need the record for user 309", "output": "search id=309"}
+{"instruction": "Delete the user with id 275", "output": "delete id=275"}
+{"instruction": "Store user michael10 with id 3010 and email michael10@outlook.com", "output": "insert id=3010 username=michael10 email=michael10@outlook.com"}
+{"instruction": "Remove username ali", "output": "delete username=ali"}
+{"instruction": "Remove user 141", "output": "delete id=141"}
+{"instruction": "Retrieve every user record please", "output": "all"}
+{"instruction": "Can you create a new user for me", "output": "INVALID"}
+{"instruction": "Please create user david99, id 2399, email david99@hotmail.com", "output": "insert id=2399 username=david99 email=david99@hotmail.com"}
+{"instruction": "Find the user with id 169", "output": "search id=169"}
+{"instruction": "List the entire user table right now", "output": "all"}
+{"instruction": "I need you to add a user from the database", "output": "INVALID"}
+{"instruction": "Retrieve the full user database for me", "output": "all"}
+{"instruction": "Would you create an account right now", "output": "INVALID"}
+{"instruction": "Retrieve all user records from the database", "output": "all"}
+{"instruction": "Look up user 236", "output": "search id=236"}
+{"instruction": "Fetch the user with ID 114", "output": "search id=114"}
+{"instruction": "Get the user whose ID is 418", "output": "search id=418"}
+{"instruction": "Delete the user with id 166", "output": "delete id=166"}
+{"instruction": "I want you to do something with user 10 today", "output": "INVALID"}
+{"instruction": "Delete record 17", "output": "delete id=17"}
+{"instruction": "Erase user 104", "output": "delete id=104"}
+{"instruction": "Get rid of user 261", "output": "delete id=261"}
+{"instruction": "Create this account: id 3566, username ravi66, email ravi66@icloud.com", "output": "insert id=3566 username=ravi66 email=ravi66@icloud.com"}
+{"instruction": "Can you insert a user please", "output": "INVALID"}
+{"instruction": "Create a user with id 2597, username emma97, and email emma97@proton.me", "output": "insert id=2597 username=emma97 email=emma97@proton.me"}
+{"instruction": "Retrieve the entire user table", "output": "all"}
+{"instruction": "Find user 345", "output": "search id=345"}
+{"instruction": "Erase user 153", "output": "delete id=153"}
+{"instruction": "Insert user with id 3220, username sam20, and email sam20@mail.com", "output": "insert id=3220 username=sam20 email=sam20@mail.com"}
+{"instruction": "Please insert user jack12, id 2712, email jack12@gmail.com", "output": "insert id=2712 username=jack12 email=jack12@gmail.com"}
+{"instruction": "Would you search by email as soon as possible", "output": "INVALID"}
+{"instruction": "Save a new user with id 1179, username ali79, email ali79@example.com", "output": "insert id=1179 username=ali79 email=ali79@example.com"}
+{"instruction": "Search for user 78", "output": "search id=78"}
+{"instruction": "Could you remove someone as soon as possible", "output": "INVALID"}
+{"instruction": "Who is user 174?", "output": "search id=174"}
+{"instruction": "List all records available in the system", "output": "all"}
+{"instruction": "I want you to remove the account if possible", "output": "INVALID"}
+{"instruction": "Delete karan's account", "output": "delete username=karan"}
+{"instruction": "Please remove the account please", "output": "INVALID"}
+{"instruction": "Who is user 375?", "output": "search id=375"}
+{"instruction": "Show all user records from the database", "output": "all"}
+{"instruction": "Delete user 255", "output": "delete id=255"}
+{"instruction": "Give me the complete user table for me", "output": "all"}
+{"instruction": "Create this account: id 3890, username sumit90, email sumit90@outlook.com", "output": "insert id=3890 username=sumit90 email=sumit90@outlook.com"}
+{"instruction": "Would you delete an account right now", "output": "INVALID"}
+{"instruction": "I need the record for user 84", "output": "search id=84"}
+{"instruction": "Store user emma6 with id 2506 and email emma6@outlook.com", "output": "insert id=2506 username=emma6 email=emma6@outlook.com"}
+{"instruction": "Retrieve user 25", "output": "search id=25"}
+{"instruction": "Save a new user with id 3891, username sumit91, email sumit91@example.com", "output": "insert id=3891 username=sumit91 email=sumit91@example.com"}
+{"instruction": "Fetch all records please", "output": "all"}
+{"instruction": "Create this account: id 1994, username karan94, email karan94@outlook.com", "output": "insert id=1994 username=karan94 email=karan94@outlook.com"}
+{"instruction": "Delete account 135", "output": "delete id=135"}
+{"instruction": "Save a new user with id 1707, username vikas7, email vikas7@example.com", "output": "insert id=1707 username=vikas7 email=vikas7@example.com"}
+{"instruction": "Add tom32 to the database with id 3332 and email tom32@mail.com", "output": "insert id=3332 username=tom32 email=tom32@mail.com"}
+{"instruction": "Add amit92 to the database with id 1592 and email amit92@gmail.com", "output": "insert id=1592 username=amit92 email=amit92@gmail.com"}
+{"instruction": "Store user sumit74 with id 3874 and email sumit74@outlook.com", "output": "insert id=3874 username=sumit74 email=sumit74@outlook.com"}
+{"instruction": "I want you to find the user for me", "output": "INVALID"}
+{"instruction": "Find the user with id 243", "output": "search id=243"}
+{"instruction": "Save a new user with id 3735, username aman35, email aman35@hotmail.com", "output": "insert id=3735 username=aman35 email=aman35@hotmail.com"}
+{"instruction": "Insert user with id 3436, username anna36, and email anna36@mail.com", "output": "insert id=3436 username=anna36 email=anna36@mail.com"}
+{"instruction": "Erase user raj", "output": "delete username=raj"}
+{"instruction": "Could you create user Abdul somehow", "output": "INVALID"}
+{"instruction": "Delete record 182", "output": "delete id=182"}
+{"instruction": "Kindly create an account please", "output": "INVALID"}
+{"instruction": "Fetch the user with ID 327", "output": "search id=327"}
+{"instruction": "Create this account: id 1430, username rohit30, email rohit30@icloud.com", "output": "insert id=1430 username=rohit30 email=rohit30@icloud.com"}
+{"instruction": "Please help me add Abdul to the database if possible", "output": "INVALID"}
+{"instruction": "I need the record for user 280", "output": "search id=280"}
+{"instruction": "Add a new user with id 2274, username alex74, and email alex74@outlook.com", "output": "insert id=2274 username=alex74 email=alex74@outlook.com"}
+{"instruction": "Get every account in the database", "output": "all"}
+{"instruction": "Delete account 156", "output": "delete id=156"}
+{"instruction": "Remove user 39", "output": "delete id=39"}
+{"instruction": "Would you create a new user for me", "output": "INVALID"}
+{"instruction": "Provide the complete user table in the system", "output": "all"}
+{"instruction": "Please change user details please", "output": "INVALID"}
+{"instruction": "Look up user 139", "output": "search id=139"}
+{"instruction": "Get the user whose ID is 134", "output": "search id=134"}
+{"instruction": "Search for user 388", "output": "search id=388"}
+{"instruction": "Insert user with id 3892, username sumit92, and email sumit92@mail.com", "output": "insert id=3892 username=sumit92 email=sumit92@mail.com"}
+{"instruction": "Show the complete list of users please", "output": "all"}
+{"instruction": "Fetch the user with ID 97", "output": "search id=97"}
+{"instruction": "Store user james14 with id 2614 and email james14@icloud.com", "output": "insert id=2614 username=james14 email=james14@icloud.com"}
+{"instruction": "Return the complete set of records available in the system", "output": "all"}
+{"instruction": "I need the record for user 470", "output": "search id=470"}
+{"instruction": "Delete account 137", "output": "delete id=137"}
+{"instruction": "Delete account 212", "output": "delete id=212"}
+{"instruction": "Find user 53", "output": "search id=53"}
+{"instruction": "Store user vikas26 with id 1726 and email vikas26@icloud.com", "output": "insert id=1726 username=vikas26 email=vikas26@icloud.com"}
+{"instruction": "Create a user with id 3089, username michael89, and email michael89@yahoo.com", "output": "insert id=3089 username=michael89 email=michael89@yahoo.com"}
+{"instruction": "Remove the user with ID 231", "output": "delete id=231"}
+{"instruction": "Please create user jack35, id 2735, email jack35@hotmail.com", "output": "insert id=2735 username=jack35 email=jack35@hotmail.com"}
+{"instruction": "Who is user 283?", "output": "search id=283"}
+{"instruction": "Could you search for someone please", "output": "INVALID"}
+{"instruction": "I want you to add a new account from the database", "output": "INVALID"}
+{"instruction": "Remove account 173", "output": "delete id=173"}
+{"instruction": "Can you make a user if possible", "output": "INVALID"}
+{"instruction": "Insert user with id 1036, username abdul36, and email abdul36@mail.com", "output": "insert id=1036 username=abdul36 email=abdul36@mail.com"}
+{"instruction": "Create this account: id 3350, username tom50, email tom50@icloud.com", "output": "insert id=3350 username=tom50 email=tom50@icloud.com"}
+{"instruction": "Delete michael's account", "output": "delete username=michael"}
+{"instruction": "Retrieve the complete user list right now", "output": "all"}
+{"instruction": "Give me all accounts from storage", "output": "all"}
+{"instruction": "Who is user 73?", "output": "search id=73"}
+{"instruction": "Get rid of user 24", "output": "delete id=24"}
+{"instruction": "Get every account for this request", "output": "all"}
+{"instruction": "Get rid of user 128", "output": "delete id=128"}
+{"instruction": "Find user 464", "output": "search id=464"}
+{"instruction": "Get rid of user 227", "output": "delete id=227"}
+{"instruction": "Look up user 309", "output": "search id=309"}
+{"instruction": "Get user 179", "output": "search id=179"}
+{"instruction": "Who is user 350?", "output": "search id=350"}
+{"instruction": "Please help me find someone today", "output": "INVALID"}
+{"instruction": "Display every record please", "output": "all"}
+{"instruction": "Get rid of user 237", "output": "delete id=237"}
+{"instruction": "get someone from the database", "output": "INVALID"}
+{"instruction": "Retrieve all users", "output": "all"}
+{"instruction": "Would you delete the account somehow", "output": "INVALID"}
+{"instruction": "Get rid of user 123", "output": "delete id=123"}
+{"instruction": "Kindly add a user in the system", "output": "INVALID"}
+{"instruction": "Remove the account of amit", "output": "delete username=amit"}
+{"instruction": "Create a user with id 3581, username ravi81, and email ravi81@proton.me", "output": "insert id=3581 username=ravi81 email=ravi81@proton.me"}
+{"instruction": "Return the complete set of records", "output": "all"}
+{"instruction": "Show every record from storage", "output": "all"}
+{"instruction": "Could you get a user please", "output": "INVALID"}
+{"instruction": "I want you to add a user if possible", "output": "INVALID"}
+{"instruction": "Remove the user with ID 171", "output": "delete id=171"}
+{"instruction": "Show user number 433", "output": "search id=433"}
+{"instruction": "Remove user 65", "output": "delete id=65"}
+{"instruction": "Add john68 to the database with id 2168 and email john68@gmail.com", "output": "insert id=2168 username=john68 email=john68@gmail.com"}
+{"instruction": "Delete account 95", "output": "delete id=95"}
+{"instruction": "Show the whole user list", "output": "all"}
+{"instruction": "Search user with id 418", "output": "search id=418"}
+{"instruction": "Delete user 176", "output": "delete id=176"}
+{"instruction": "Add this user: id 1765, username vikas65, email vikas65@proton.me", "output": "insert id=1765 username=vikas65 email=vikas65@proton.me"}
+{"instruction": "Show me user 291", "output": "search id=291"}
+{"instruction": "Return the full user database in the user table", "output": "all"}
+{"instruction": "Delete user 53", "output": "delete id=53"}
+{"instruction": "Find the user with id 499", "output": "search id=499"}
+{"instruction": "Display all user records", "output": "all"}
+{"instruction": "Search for user 123", "output": "search id=123"}
+{"instruction": "Display every record available in the system", "output": "all"}
+{"instruction": "Would you add Abdul to the database as soon as possible", "output": "INVALID"}
+{"instruction": "Retrieve user 365", "output": "search id=365"}
+{"instruction": "Can you show me the database from the database", "output": "INVALID"}
+{"instruction": "Get all records right now", "output": "all"}
+{"instruction": "Add a new user with id 1086, username abdul86, and email abdul86@icloud.com", "output": "insert id=1086 username=abdul86 email=abdul86@icloud.com"}
+{"instruction": "Get all users", "output": "all"}
+{"instruction": "Add a new user with id 3162, username chris62, and email chris62@outlook.com", "output": "insert id=3162 username=chris62 email=chris62@outlook.com"}
+{"instruction": "Search for user 88", "output": "search id=88"}
+{"instruction": "Register user rahul53 with id 1353 and email rahul53@yahoo.com", "output": "insert id=1353 username=rahul53 email=rahul53@yahoo.com"}
+{"instruction": "Save a new user with id 2223, username alex23, email alex23@hotmail.com", "output": "insert id=2223 username=alex23 email=alex23@hotmail.com"}
+{"instruction": "Insert user with id 1480, username rohit80, and email rohit80@gmail.com", "output": "insert id=1480 username=rohit80 email=rohit80@gmail.com"}
+{"instruction": "Kindly delete an account right now", "output": "INVALID"}
+{"instruction": "Find the user with id 196", "output": "search id=196"}
+{"instruction": "Get rid of user 218", "output": "delete id=218"}
+{"instruction": "Show the complete user list for this request", "output": "all"}
+{"instruction": "I need you to find the user from the database", "output": "INVALID"}
+{"instruction": "Delete record 192", "output": "delete id=192"}
+{"instruction": "Can you find user 75?", "output": "search id=75"}
+{"instruction": "Fetch the user with ID 51", "output": "search id=51"}
+{"instruction": "Kindly delete the account if possible", "output": "INVALID"}
+{"instruction": "Delete the user with email john@gmail.com", "output": "delete email=john@gmail.com"}
+{"instruction": "I want you to delete a user", "output": "INVALID"}
+{"instruction": "Delete account 291", "output": "delete id=291"}
+{"instruction": "Delete james's account", "output": "delete username=james"}
+{"instruction": "Who is user 208?", "output": "search id=208"}
+{"instruction": "Give me all users today", "output": "all"}
+{"instruction": "Show user number 276", "output": "search id=276"}
+{"instruction": "Could you get someone somehow", "output": "INVALID"}
+{"instruction": "Remove account 248", "output": "delete id=248"}
+{"instruction": "Delete user 96", "output": "delete id=96"}
+{"instruction": "Can you find user 205?", "output": "search id=205"}
+{"instruction": "Remove account 145", "output": "delete id=145"}
+{"instruction": "Look up user 414", "output": "search id=414"}
+{"instruction": "Remove user 256", "output": "delete id=256"}
+{"instruction": "I need you to create an account for Abdul from the database", "output": "INVALID"}
+{"instruction": "Please delete a user in the system", "output": "INVALID"}
+{"instruction": "Delete account 138", "output": "delete id=138"}
+{"instruction": "List every record in the database", "output": "all"}
+{"instruction": "Remove the account", "output": "INVALID"}
+{"instruction": "Remove username john", "output": "delete username=john"}
+{"instruction": "I need you to search for someone as soon as possible", "output": "INVALID"}
+{"instruction": "Show all users from the user table", "output": "all"}
+{"instruction": "Give me all users in the database", "output": "all"}
+{"instruction": "Add this user: id 1945, username karan45, email karan45@yahoo.com", "output": "insert id=1945 username=karan45 email=karan45@yahoo.com"}
+{"instruction": "Save a new user with id 1923, username karan23, email karan23@example.com", "output": "insert id=1923 username=karan23 email=karan23@example.com"}
+{"instruction": "Can you find user 203?", "output": "search id=203"}
+{"instruction": "Erase user 37", "output": "delete id=37"}
+{"instruction": "Register user james49 with id 2649 and email james49@yahoo.com", "output": "insert id=2649 username=james49 email=james49@yahoo.com"}
+{"instruction": "Give me the full user database available in the system", "output": "all"}
+{"instruction": "Kindly create user Abdul as soon as possible", "output": "INVALID"}
+{"instruction": "Create user abdul63 with id 1063 and email abdul63@hotmail.com", "output": "insert id=1063 username=abdul63 email=abdul63@hotmail.com"}
+{"instruction": "Show me user 59", "output": "search id=59"}
+{"instruction": "Find the user with id 476", "output": "search id=476"}
+{"instruction": "Please create user james63, id 2663, email james63@hotmail.com", "output": "insert id=2663 username=james63 email=james63@hotmail.com"}
+{"instruction": "Get the user whose ID is 400", "output": "search id=400"}
+{"instruction": "Show me user 381", "output": "search id=381"}
+{"instruction": "Who is user 332?", "output": "search id=332"}
+{"instruction": "Erase user 63", "output": "delete id=63"}
+{"instruction": "Delete the user with id 39", "output": "delete id=39"}
+{"instruction": "Add this user: id 3193, username chris93, email chris93@yahoo.com", "output": "insert id=3193 username=chris93 email=chris93@yahoo.com"}
+{"instruction": "Provide every user record currently stored", "output": "all"}
+{"instruction": "Remove account 245", "output": "delete id=245"}
+{"instruction": "Show me user 356", "output": "search id=356"}
+{"instruction": "Can you find user 499?", "output": "search id=499"}
+{"instruction": "Retrieve user 489", "output": "search id=489"}
+{"instruction": "Create a user with id 1565, username amit65, and email amit65@proton.me", "output": "insert id=1565 username=amit65 email=amit65@proton.me"}
+{"instruction": "Delete the user with id 20", "output": "delete id=20"}
+{"instruction": "Provide the complete user table", "output": "all"}
+{"instruction": "Please create user ahmed47, id 1247, email ahmed47@hotmail.com", "output": "insert id=1247 username=ahmed47 email=ahmed47@hotmail.com"}
+{"instruction": "Please insert user aman8, id 3708, email aman8@mail.com", "output": "insert id=3708 username=aman8 email=aman8@mail.com"}
+{"instruction": "Search user with id 90", "output": "search id=90"}
+{"instruction": "Create a user with id 2129, username john29, and email john29@yahoo.com", "output": "insert id=2129 username=john29 email=john29@yahoo.com"}
+{"instruction": "Remove username alex", "output": "delete username=alex"}
+{"instruction": "insert a user from the database", "output": "INVALID"}
+{"instruction": "Fetch the user with ID 184", "output": "search id=184"}
+{"instruction": "List all accounts currently stored", "output": "all"}
+{"instruction": "Remove user 216", "output": "delete id=216"}
+{"instruction": "Remove account 146", "output": "delete id=146"}
+{"instruction": "Add a user", "output": "INVALID"}
+{"instruction": "Could you delete whoever is logged in for me", "output": "INVALID"}
+{"instruction": "Remove user 236", "output": "delete id=236"}
+{"instruction": "Please remove someone somehow", "output": "INVALID"}
+{"instruction": "Fetch the complete set of users", "output": "all"}
+{"instruction": "Erase user 97", "output": "delete id=97"}
+{"instruction": "Show user number 378", "output": "search id=378"}
+{"instruction": "Delete record 146", "output": "delete id=146"}
+{"instruction": "Get rid of user 221", "output": "delete id=221"}
+{"instruction": "Display all records from the database", "output": "all"}
+{"instruction": "Provide the complete list of users from the database", "output": "all"}
+{"instruction": "Delete record 252", "output": "delete id=252"}
+{"instruction": "Return all user records from the database", "output": "all"}
+{"instruction": "Delete record 110", "output": "delete id=110"}
+{"instruction": "Display every entry from the user table", "output": "all"}
+{"instruction": "Please insert user olivia40, id 2940, email olivia40@mail.com", "output": "insert id=2940 username=olivia40 email=olivia40@mail.com"}
+{"instruction": "Show user number 424", "output": "search id=424"}
+{"instruction": "I need the record for user 472", "output": "search id=472"}
+{"instruction": "Show user number 136", "output": "search id=136"}
+{"instruction": "I need you to remove a record as soon as possible", "output": "INVALID"}
+{"instruction": "Add john to the database with id 6 and email john@gmail.com", "output": "insert id=6 username=john email=john@gmail.com"}
+{"instruction": "Create a user with id 3845, username sumit45, and email sumit45@proton.me", "output": "insert id=3845 username=sumit45 email=sumit45@proton.me"}
+{"instruction": "Delete the user with id 31", "output": "delete id=31"}
+{"instruction": "Search user with id 131", "output": "search id=131"}
+{"instruction": "find the user right now", "output": "INVALID"}
+{"instruction": "Search user with id 299", "output": "search id=299"}
+{"instruction": "I want you to add a new account", "output": "INVALID"}
+{"instruction": "Create a user with id 2309, username david9, and email david9@proton.me", "output": "insert id=2309 username=david9 email=david9@proton.me"}
+{"instruction": "delete an account as soon as possible", "output": "INVALID"}
+{"instruction": "Show user number 106", "output": "search id=106"}
+{"instruction": "Fetch the user with ID 487", "output": "search id=487"}
+{"instruction": "Remove account 208", "output": "delete id=208"}
+{"instruction": "I need you to delete an account please", "output": "INVALID"}
+{"instruction": "Erase user 280", "output": "delete id=280"}
+{"instruction": "Delete the user with id 178", "output": "delete id=178"}
+{"instruction": "Register user ravi85 with id 3585 and email ravi85@yahoo.com", "output": "insert id=3585 username=ravi85 email=ravi85@yahoo.com"}
+{"instruction": "Create this account: id 1754, username vikas54, email vikas54@outlook.com", "output": "insert id=1754 username=vikas54 email=vikas54@outlook.com"}
+{"instruction": "Retrieve user 111", "output": "search id=111"}
+{"instruction": "Erase user 249", "output": "delete id=249"}
+{"instruction": "Get rid of user 280", "output": "delete id=280"}
+{"instruction": "Provide all records today", "output": "all"}
+{"instruction": "Create user ahmed7 with id 1207 and email ahmed7@hotmail.com", "output": "insert id=1207 username=ahmed7 email=ahmed7@hotmail.com"}
+{"instruction": "Could you delete whoever is logged in in the system", "output": "INVALID"}
+{"instruction": "Retrieve user 2", "output": "search id=2"}
+{"instruction": "Can you find user 110?", "output": "search id=110"}
+{"instruction": "Get every record right now", "output": "all"}
+{"instruction": "Search user with id 405", "output": "search id=405"}
+{"instruction": "Delete record 284", "output": "delete id=284"}
+{"instruction": "Get user 196", "output": "search id=196"}
+{"instruction": "Delete user 102", "output": "delete id=102"}
+{"instruction": "Get user 118", "output": "search id=118"}
+{"instruction": "Add this user: id 1789, username vikas89, email vikas89@proton.me", "output": "insert id=1789 username=vikas89 email=vikas89@proton.me"}
+{"instruction": "Search for user 298", "output": "search id=298"}
+{"instruction": "Get rid of user 146", "output": "delete id=146"}
+{"instruction": "Find user 308", "output": "search id=308"}
+{"instruction": "Store user anna30 with id 3430 and email anna30@icloud.com", "output": "insert id=3430 username=anna30 email=anna30@icloud.com"}
+{"instruction": "Can you search for a user please", "output": "INVALID"}
+{"instruction": "Insert user with id 2248, username alex48, and email alex48@gmail.com", "output": "insert id=2248 username=alex48 email=alex48@gmail.com"}
+{"instruction": "List the complete user table available in the system", "output": "all"}
+{"instruction": "Please create user emma19, id 2519, email emma19@hotmail.com", "output": "insert id=2519 username=emma19 email=emma19@hotmail.com"}
+{"instruction": "I want you to create a new user today", "output": "INVALID"}
+{"instruction": "Delete the user with id 180", "output": "delete id=180"}
+{"instruction": "Save a new user with id 1359, username rahul59, email rahul59@hotmail.com", "output": "insert id=1359 username=rahul59 email=rahul59@hotmail.com"}
+{"instruction": "Get the user whose ID is 100", "output": "search id=100"}
+{"instruction": "Add this user: id 3289, username sam89, email sam89@yahoo.com", "output": "insert id=3289 username=sam89 email=sam89@yahoo.com"}
+{"instruction": "Fetch the user with ID 181", "output": "search id=181"}
+{"instruction": "Delete user 92", "output": "delete id=92"}
+{"instruction": "Search user with id 119", "output": "search id=119"}
+{"instruction": "Create a user with id 2657, username james57, and email james57@yahoo.com", "output": "insert id=2657 username=james57 email=james57@yahoo.com"}
+{"instruction": "Save a new user with id 2355, username david55, email david55@example.com", "output": "insert id=2355 username=david55 email=david55@example.com"}
+{"instruction": "Could you remove a record right now", "output": "INVALID"}
+{"instruction": "Kindly delete by username today", "output": "INVALID"}
+{"instruction": "Please add a new account in the system", "output": "INVALID"}
+{"instruction": "List every account today", "output": "all"}
+{"instruction": "Find user 3", "output": "search id=3"}
+{"instruction": "Remove account 118", "output": "delete id=118"}
+{"instruction": "Get rid of user 37", "output": "delete id=37"}
+{"instruction": "Search for user 22", "output": "search id=22"}
+{"instruction": "Remove user 275", "output": "delete id=275"}
+{"instruction": "Remove user 133", "output": "delete id=133"}
+{"instruction": "Kindly make a user for me", "output": "INVALID"}
+{"instruction": "Show me rahul", "output": "search username=rahul"}
+{"instruction": "Would you create a new user in the system", "output": "INVALID"}
+{"instruction": "Please insert user priya60, id 3960, email priya60@gmail.com", "output": "insert id=3960 username=priya60 email=priya60@gmail.com"}
+{"instruction": "Fetch every account for this request", "output": "all"}
+{"instruction": "Delete user 199", "output": "delete id=199"}
+{"instruction": "Retrieve user 176", "output": "search id=176"}
+{"instruction": "Find the user with id 318", "output": "search id=318"}
+{"instruction": "Would you delete by username please", "output": "INVALID"}
+{"instruction": "Could you create an account for Abdul", "output": "INVALID"}
+{"instruction": "Please search the database right now", "output": "INVALID"}
+{"instruction": "Search user with id 214", "output": "search id=214"}
+{"instruction": "Provide the complete set of records for me", "output": "all"}
+{"instruction": "Remove account 246", "output": "delete id=246"}
+{"instruction": "Add a new user with id 3570, username ravi70, and email ravi70@outlook.com", "output": "insert id=3570 username=ravi70 email=ravi70@outlook.com"}
+{"instruction": "Look up user 125", "output": "search id=125"}
+{"instruction": "Remove the account of anna", "output": "delete username=anna"}
+{"instruction": "Erase user 199", "output": "delete id=199"}
+{"instruction": "I want you to delete by username somehow", "output": "INVALID"}
+{"instruction": "Erase user 185", "output": "delete id=185"}
+{"instruction": "Remove account 158", "output": "delete id=158"}
+{"instruction": "Save a new user with id 1983, username karan83, email karan83@hotmail.com", "output": "insert id=1983 username=karan83 email=karan83@hotmail.com"}
+{"instruction": "Create this account: id 3194, username chris94, email chris94@outlook.com", "output": "insert id=3194 username=chris94 email=chris94@outlook.com"}
+{"instruction": "Show me user 246", "output": "search id=246"}
+{"instruction": "Show the whole user list for this request", "output": "all"}
+{"instruction": "Who is user 274?", "output": "search id=274"}
+{"instruction": "Please search by email if possible", "output": "INVALID"}
+{"instruction": "Add olivia48 to the database with id 2948 and email olivia48@mail.com", "output": "insert id=2948 username=olivia48 email=olivia48@mail.com"}
+{"instruction": "Get all accounts right now", "output": "all"}
+{"instruction": "Find the user with id 415", "output": "search id=415"}
+{"instruction": "Get every account please", "output": "all"}
+{"instruction": "Fetch all entries from storage", "output": "all"}
+{"instruction": "Remove user 186", "output": "delete id=186"}
+{"instruction": "Would you search the database please", "output": "INVALID"}
+{"instruction": "Remove the user with ID 56", "output": "delete id=56"}
+{"instruction": "Fetch the user with ID 475", "output": "search id=475"}
+{"instruction": "Delete the user with id 260", "output": "delete id=260"}
+{"instruction": "Find the user with id 28", "output": "search id=28"}
+{"instruction": "List all user accounts available in the system", "output": "all"}
+{"instruction": "Provide every entry please", "output": "all"}
+{"instruction": "Add a new user with id 1182, username ali82, and email ali82@icloud.com", "output": "insert id=1182 username=ali82 email=ali82@icloud.com"}
+{"instruction": "Remove account 242", "output": "delete id=242"}
+{"instruction": "Can you find user 72?", "output": "search id=72"}
+{"instruction": "Erase user 289", "output": "delete id=289"}
+{"instruction": "Give me the complete user list for this request", "output": "all"}
+{"instruction": "Who is user 239?", "output": "search id=239"}
+{"instruction": "Find the user with id 40", "output": "search id=40"}
+{"instruction": "Remove the user with ID 91", "output": "delete id=91"}
+{"instruction": "Provide the complete user table today", "output": "all"}
+{"instruction": "Delete the user with id 288", "output": "delete id=288"}
+{"instruction": "Delete record 224", "output": "delete id=224"}
+{"instruction": "Add this user: id 2137, username john37, email john37@yahoo.com", "output": "insert id=2137 username=john37 email=john37@yahoo.com"}
+{"instruction": "Create user james95 with id 2695 and email james95@hotmail.com", "output": "insert id=2695 username=james95 email=james95@hotmail.com"}
+{"instruction": "Search user with id 97", "output": "search id=97"}
+{"instruction": "Find user 42", "output": "search id=42"}
+{"instruction": "I need the record for user 14", "output": "search id=14"}
+{"instruction": "I need the record for user 78", "output": "search id=78"}
+{"instruction": "Create a user with id 1013, username abdul13, and email abdul13@proton.me", "output": "insert id=1013 username=abdul13 email=abdul13@proton.me"}
+{"instruction": "Store user ali14 with id 1114 and email ali14@outlook.com", "output": "insert id=1114 username=ali14 email=ali14@outlook.com"}
+{"instruction": "Add this user: id 3553, username ravi53, email ravi53@yahoo.com", "output": "insert id=3553 username=ravi53 email=ravi53@yahoo.com"}
+{"instruction": "Store user anna90 with id 3490 and email anna90@outlook.com", "output": "insert id=3490 username=anna90 email=anna90@outlook.com"}
+{"instruction": "Remove the user with ID 125", "output": "delete id=125"}
+{"instruction": "Register user vikas49 with id 1749 and email vikas49@proton.me", "output": "insert id=1749 username=vikas49 email=vikas49@proton.me"}
+{"instruction": "Remove the account of michael", "output": "delete username=michael"}
+{"instruction": "Add alex76 to the database with id 2276 and email alex76@mail.com", "output": "insert id=2276 username=alex76 email=alex76@mail.com"}
+{"instruction": "Show user number 67", "output": "search id=67"}
+{"instruction": "Get the user whose ID is 164", "output": "search id=164"}
+{"instruction": "Delete the user with id 56", "output": "delete id=56"}
+{"instruction": "Delete maria's account", "output": "delete username=maria"}
+{"instruction": "Give me all users please", "output": "all"}
+{"instruction": "List the entire user table for this request", "output": "all"}
+{"instruction": "Add neha32 to the database with id 3632 and email neha32@gmail.com", "output": "insert id=3632 username=neha32 email=neha32@gmail.com"}
+{"instruction": "Remove user sam", "output": "delete username=sam"}
+{"instruction": "Create a user with id 1433, username rohit33, and email rohit33@yahoo.com", "output": "insert id=1433 username=rohit33 email=rohit33@yahoo.com"}
+{"instruction": "Find the account for david@gmail.com", "output": "search email=david@gmail.com"}
+{"instruction": "Create user david83 with id 2383 and email david83@hotmail.com", "output": "insert id=2383 username=david83 email=david83@hotmail.com"}
+{"instruction": "Provide every user record currently available", "output": "all"}
+{"instruction": "Create this account: id 3398, username tom98, email tom98@icloud.com", "output": "insert id=3398 username=tom98 email=tom98@icloud.com"}
+{"instruction": "Remove account 261", "output": "delete id=261"}
+{"instruction": "Return every record in the system", "output": "all"}
+{"instruction": "Please search the database from the database", "output": "INVALID"}
+{"instruction": "Display the complete user list right now", "output": "all"}
+{"instruction": "Get rid of user 124", "output": "delete id=124"}
+{"instruction": "Please create user sam27, id 3227, email sam27@example.com", "output": "insert id=3227 username=sam27 email=sam27@example.com"}
+{"instruction": "I want you to delete a user today", "output": "INVALID"}
+{"instruction": "Search user with id 66", "output": "search id=66"}
+{"instruction": "Fetch the user with ID 257", "output": "search id=257"}
+{"instruction": "Save a new user with id 3327, username tom27, email tom27@hotmail.com", "output": "insert id=3327 username=tom27 email=tom27@hotmail.com"}
+{"instruction": "Insert user with id 1360, username rahul60, and email rahul60@gmail.com", "output": "insert id=1360 username=rahul60 email=rahul60@gmail.com"}
+{"instruction": "Get rid of user 174", "output": "delete id=174"}
+{"instruction": "I want you to search for a user as soon as possible", "output": "INVALID"}
+{"instruction": "Could you change user details in the system", "output": "INVALID"}
+{"instruction": "create an account as soon as possible", "output": "INVALID"}
+{"instruction": "Return the whole user list please", "output": "all"}
+{"instruction": "Give me all user accounts please", "output": "all"}
+{"instruction": "Fetch all entries currently available", "output": "all"}
+{"instruction": "Please delete a user somehow", "output": "INVALID"}
+{"instruction": "Find rahul's account", "output": "search username=rahul"}
+{"instruction": "List the full user database", "output": "all"}
+{"instruction": "I need the record for user 399", "output": "search id=399"}
+{"instruction": "Fetch every record right now", "output": "all"}
+{"instruction": "Can you add a new account if possible", "output": "INVALID"}
+{"instruction": "Delete user 152", "output": "delete id=152"}
+{"instruction": "Give me the complete list of users for this request", "output": "all"}
+{"instruction": "Give me all users in the user table", "output": "all"}
+{"instruction": "Please create user anna67, id 3467, email anna67@example.com", "output": "insert id=3467 username=anna67 email=anna67@example.com"}
+{"instruction": "Remove account 45", "output": "delete id=45"}
+{"instruction": "I need you to add a user", "output": "INVALID"}
+{"instruction": "Get the user whose ID is 463", "output": "search id=463"}
+{"instruction": "Remove account 295", "output": "delete id=295"}
+{"instruction": "Remove user 28", "output": "delete id=28"}
+{"instruction": "Display the whole user list today", "output": "all"}
+{"instruction": "Provide all user accounts right now", "output": "all"}
+{"instruction": "Delete user 279", "output": "delete id=279"}
+{"instruction": "Add james60 to the database with id 2660 and email james60@mail.com", "output": "insert id=2660 username=james60 email=james60@mail.com"}
+{"instruction": "Get rid of user 276", "output": "delete id=276"}
+{"instruction": "Fetch all user accounts currently stored", "output": "all"}
+{"instruction": "Delete account sarah@gmail.com", "output": "delete email=sarah@gmail.com"}
+{"instruction": "Show me user 319", "output": "search id=319"}
+{"instruction": "Delete record 37", "output": "delete id=37"}
+{"instruction": "Please create user james75, id 2675, email james75@example.com", "output": "insert id=2675 username=james75 email=james75@example.com"}
+{"instruction": "I need you to delete a user please", "output": "INVALID"}
+{"instruction": "Return all entries currently available", "output": "all"}
+{"instruction": "Delete record 253", "output": "delete id=253"}
+{"instruction": "Return the complete set of users from the user table", "output": "all"}
+{"instruction": "I need you to delete whoever is logged in somehow", "output": "INVALID"}
+{"instruction": "Remove account john@gmail.com", "output": "delete email=john@gmail.com"}
+{"instruction": "Please show me the database if possible", "output": "INVALID"}
+{"instruction": "Get rid of user 202", "output": "delete id=202"}
+{"instruction": "Give me all user accounts currently stored", "output": "all"}
+{"instruction": "Get the user whose ID is 79", "output": "search id=79"}
+{"instruction": "Delete the user with email ahmed@gmail.com", "output": "delete email=ahmed@gmail.com"}
+{"instruction": "Find the user with id 251", "output": "search id=251"}
+{"instruction": "Delete user 68", "output": "delete id=68"}
+{"instruction": "Delete the user with id 49", "output": "delete id=49"}
+{"instruction": "Kindly get a user if possible", "output": "INVALID"}
+{"instruction": "Find the user with id 50", "output": "search id=50"}
+{"instruction": "Create a user with id 1577, username amit77, and email amit77@yahoo.com", "output": "insert id=1577 username=amit77 email=amit77@yahoo.com"}
+{"instruction": "Please insert user aman68, id 3768, email aman68@gmail.com", "output": "insert id=3768 username=aman68 email=aman68@gmail.com"}
+{"instruction": "List all records for this request", "output": "all"}
+{"instruction": "Delete record 270", "output": "delete id=270"}
+{"instruction": "Create a user with id 3005, username michael5, and email michael5@proton.me", "output": "insert id=3005 username=michael5 email=michael5@proton.me"}
+{"instruction": "Show user number 257", "output": "search id=257"}
+{"instruction": "Delete account admin@example.com", "output": "delete email=admin@example.com"}
+{"instruction": "Create a user with id 3065, username michael65, and email michael65@yahoo.com", "output": "insert id=3065 username=michael65 email=michael65@yahoo.com"}
+{"instruction": "Remove user sarah", "output": "delete username=sarah"}
+{"instruction": "Remove account 105", "output": "delete id=105"}
+{"instruction": "Find the user with id 126", "output": "search id=126"}
+{"instruction": "List every entry from storage", "output": "all"}
+{"instruction": "Search user with id 86", "output": "search id=86"}
+{"instruction": "Add a new user with id 2898, username daniel98, and email daniel98@outlook.com", "output": "insert id=2898 username=daniel98 email=daniel98@outlook.com"}
+{"instruction": "Look up user 320", "output": "search id=320"}
+{"instruction": "Get rid of user 125", "output": "delete id=125"}
+{"instruction": "Register user vikas97 with id 1797 and email vikas97@proton.me", "output": "insert id=1797 username=vikas97 email=vikas97@proton.me"}
+{"instruction": "Kindly search for someone", "output": "INVALID"}
+{"instruction": "Delete user 90", "output": "delete id=90"}
+{"instruction": "Delete account 172", "output": "delete id=172"}
+{"instruction": "Look up user 490", "output": "search id=490"}
+{"instruction": "Please create user sumit15, id 3815, email sumit15@hotmail.com", "output": "insert id=3815 username=sumit15 email=sumit15@hotmail.com"}
+{"instruction": "Get user 322", "output": "search id=322"}
+{"instruction": "Delete emma's account", "output": "delete username=emma"}
+{"instruction": "Search user with id 392", "output": "search id=392"}
+{"instruction": "Remove user 126", "output": "delete id=126"}
+{"instruction": "Save a new user with id 1695, username arjun95, email arjun95@hotmail.com", "output": "insert id=1695 username=arjun95 email=arjun95@hotmail.com"}
+{"instruction": "Get the user whose ID is 325", "output": "search id=325"}
+{"instruction": "Can you find user 485?", "output": "search id=485"}
+{"instruction": "Can you find user 58?", "output": "search id=58"}
+{"instruction": "Fetch the user with ID 47", "output": "search id=47"}
+{"instruction": "Get the complete user table in the database", "output": "all"}
+{"instruction": "Look up user 194", "output": "search id=194"}
+{"instruction": "Can you delete the account as soon as possible", "output": "INVALID"}
+{"instruction": "Remove the user with ID 177", "output": "delete id=177"}
+{"instruction": "Erase user daniel", "output": "delete username=daniel"}
+{"instruction": "Get the user whose ID is 408", "output": "search id=408"}
+{"instruction": "Delete account 75", "output": "delete id=75"}
+{"instruction": "Remove the user with ID 188", "output": "delete id=188"}
+{"instruction": "Please create user alex67, id 2267, email alex67@example.com", "output": "insert id=2267 username=alex67 email=alex67@example.com"}
+{"instruction": "Erase user 277", "output": "delete id=277"}
+{"instruction": "Delete user 186", "output": "delete id=186"}
+{"instruction": "Can you find user 368?", "output": "search id=368"}
+{"instruction": "Remove user 9", "output": "delete id=9"}
+{"instruction": "Add a new user with id 1002, username abdul2, and email abdul2@outlook.com", "output": "insert id=1002 username=abdul2 email=abdul2@outlook.com"}
+{"instruction": "Please show me the database somehow", "output": "INVALID"}
+{"instruction": "Search for user 344", "output": "search id=344"}
+{"instruction": "Show the complete user table currently available", "output": "all"}
+{"instruction": "Delete account 288", "output": "delete id=288"}
+{"instruction": "Delete the user with id 197", "output": "delete id=197"}
+{"instruction": "Please help me add a user from the database", "output": "INVALID"}
+{"instruction": "Add a new user: id 5, username rohit, email rohit@gmail.com", "output": "insert id=5 username=rohit email=rohit@gmail.com"}
+{"instruction": "Remove user 13", "output": "delete id=13"}
+{"instruction": "Create user ali95 with id 1195 and email ali95@example.com", "output": "insert id=1195 username=ali95 email=ali95@example.com"}
+{"instruction": "Add a new user with id 3786, username aman86, and email aman86@outlook.com", "output": "insert id=3786 username=aman86 email=aman86@outlook.com"}
+{"instruction": "Get every record for me", "output": "all"}
+{"instruction": "Remove user 66", "output": "delete id=66"}
+{"instruction": "Create a user with id 1841, username raj41, and email raj41@yahoo.com", "output": "insert id=1841 username=raj41 email=raj41@yahoo.com"}
+{"instruction": "Retrieve user 363", "output": "search id=363"}
+{"instruction": "Would you search the database today", "output": "INVALID"}
+{"instruction": "Get user 287", "output": "search id=287"}
+{"instruction": "List all user accounts", "output": "all"}
+{"instruction": "Would you create user Abdul today", "output": "INVALID"}
+{"instruction": "Show all users for me", "output": "all"}
+{"instruction": "Remove account 67", "output": "delete id=67"}
+{"instruction": "Retrieve user 360", "output": "search id=360"}
+{"instruction": "Show me user 233", "output": "search id=233"}
+{"instruction": "Create user sumit83 with id 3883 and email sumit83@example.com", "output": "insert id=3883 username=sumit83 email=sumit83@example.com"}
+{"instruction": "Could you do something with user 10 somehow", "output": "INVALID"}
+{"instruction": "Could you remove someone right now", "output": "INVALID"}
+{"instruction": "List the entire user table for me", "output": "all"}
+{"instruction": "Get rid of user 65", "output": "delete id=65"}
+{"instruction": "List the complete list of users from the user table", "output": "all"}
+{"instruction": "Search for user 255", "output": "search id=255"}
+{"instruction": "Delete the user with id 7", "output": "delete id=7"}
+{"instruction": "Get user 31", "output": "search id=31"}
+{"instruction": "Store user neha22 with id 3622 and email neha22@icloud.com", "output": "insert id=3622 username=neha22 email=neha22@icloud.com"}
+{"instruction": "Please insert user john72, id 2172, email john72@mail.com", "output": "insert id=2172 username=john72 email=john72@mail.com"}
+{"instruction": "Display the entire user table in the user table", "output": "all"}
+{"instruction": "Please help me add Abdul to the database as soon as possible", "output": "INVALID"}
+{"instruction": "Please create user ravi99, id 3599, email ravi99@hotmail.com", "output": "insert id=3599 username=ravi99 email=ravi99@hotmail.com"}
+{"instruction": "Search user with id 308", "output": "search id=308"}
+{"instruction": "Save a new user with id 3723, username aman23, email aman23@example.com", "output": "insert id=3723 username=aman23 email=aman23@example.com"}
+{"instruction": "get a user from the database", "output": "INVALID"}
+{"instruction": "Find user 362", "output": "search id=362"}
+{"instruction": "Fetch the user with ID 108", "output": "search id=108"}
+{"instruction": "Add ravi96 to the database with id 3596 and email ravi96@mail.com", "output": "insert id=3596 username=ravi96 email=ravi96@mail.com"}
+{"instruction": "Give me all records in the user table", "output": "all"}
+{"instruction": "Remove the user with ID 87", "output": "delete id=87"}
+{"instruction": "Can you get a user right now", "output": "INVALID"}
+{"instruction": "Look up user 374", "output": "search id=374"}
+{"instruction": "Get rid of user 178", "output": "delete id=178"}
+{"instruction": "Delete rahul's account", "output": "delete username=rahul"}
+{"instruction": "Remove account 164", "output": "delete id=164"}
+{"instruction": "Show user number 266", "output": "search id=266"}
+{"instruction": "create an account from the database", "output": "INVALID"}
+{"instruction": "I need you to delete a user from the database", "output": "INVALID"}
+{"instruction": "Please insert user aman80, id 3780, email aman80@mail.com", "output": "insert id=3780 username=aman80 email=aman80@mail.com"}
+{"instruction": "Store user raj58 with id 1858 and email raj58@outlook.com", "output": "insert id=1858 username=raj58 email=raj58@outlook.com"}
+{"instruction": "Insert user with id 1132, username ali32, and email ali32@mail.com", "output": "insert id=1132 username=ali32 email=ali32@mail.com"}
+{"instruction": "Return every account currently stored", "output": "all"}
+{"instruction": "Can you search for someone", "output": "INVALID"}
+{"instruction": "Remove the user with ID 245", "output": "delete id=245"}
+{"instruction": "Store user ali2 with id 1102 and email ali2@icloud.com", "output": "insert id=1102 username=ali2 email=ali2@icloud.com"}
+{"instruction": "Remove user 82", "output": "delete id=82"}
+{"instruction": "Register user rahul77 with id 1377 and email rahul77@yahoo.com", "output": "insert id=1377 username=rahul77 email=rahul77@yahoo.com"}
+{"instruction": "Delete user 25", "output": "delete id=25"}
+{"instruction": "Erase user 159", "output": "delete id=159"}
+{"instruction": "Can you find user 154?", "output": "search id=154"}
+{"instruction": "Look up user 115", "output": "search id=115"}
+{"instruction": "Insert user with id 2428, username maria28, and email maria28@mail.com", "output": "insert id=2428 username=maria28 email=maria28@mail.com"}
+{"instruction": "Find the user with id 373", "output": "search id=373"}
+{"instruction": "Create a user with id 2141, username john41, and email john41@proton.me", "output": "insert id=2141 username=john41 email=john41@proton.me"}
+{"instruction": "Store user ahmed22 with id 1222 and email ahmed22@icloud.com", "output": "insert id=1222 username=ahmed22 email=ahmed22@icloud.com"}
+{"instruction": "Give me every user today", "output": "all"}
+{"instruction": "Return the full user database currently stored", "output": "all"}
+{"instruction": "Please create user raj71, id 1871, email raj71@hotmail.com", "output": "insert id=1871 username=raj71 email=raj71@hotmail.com"}
+{"instruction": "Would you insert a user", "output": "INVALID"}
+{"instruction": "Show every user record from the user table", "output": "all"}
+{"instruction": "I want you to add a user for me", "output": "INVALID"}
+{"instruction": "Show me user 12", "output": "search id=12"}
+{"instruction": "Remove user 265", "output": "delete id=265"}
+{"instruction": "Return every user record for me", "output": "all"}
+{"instruction": "Delete user 296", "output": "delete id=296"}
+{"instruction": "Create user sumit59 with id 3859 and email sumit59@example.com", "output": "insert id=3859 username=sumit59 email=sumit59@example.com"}
+{"instruction": "Delete account 122", "output": "delete id=122"}
+{"instruction": "Erase user 144", "output": "delete id=144"}
+{"instruction": "Remove the user with ID 257", "output": "delete id=257"}
+{"instruction": "Store user sam98 with id 3298 and email sam98@outlook.com", "output": "insert id=3298 username=sam98 email=sam98@outlook.com"}
+{"instruction": "I need you to update the user somehow", "output": "INVALID"}
+{"instruction": "Provide the full user database from the user table", "output": "all"}
+{"instruction": "Please create user arjun55, id 1655, email arjun55@hotmail.com", "output": "insert id=1655 username=arjun55 email=arjun55@hotmail.com"}
+{"instruction": "List the complete set of users in the system", "output": "all"}
+{"instruction": "Get rid of user 298", "output": "delete id=298"}
+{"instruction": "Please search for someone if possible", "output": "INVALID"}
+{"instruction": "Kindly add a new account for me", "output": "INVALID"}
+{"instruction": "Show the complete user list in the system", "output": "all"}
+{"instruction": "Insert user with id 2548, username emma48, and email emma48@mail.com", "output": "insert id=2548 username=emma48 email=emma48@mail.com"}
+{"instruction": "Look up user 99", "output": "search id=99"}
+{"instruction": "Erase the account using alex@gmail.com", "output": "delete email=alex@gmail.com"}
+{"instruction": "Add arjun28 to the database with id 1628 and email arjun28@mail.com", "output": "insert id=1628 username=arjun28 email=arjun28@mail.com"}
+{"instruction": "Erase user 210", "output": "delete id=210"}
+{"instruction": "Provide the complete user table please", "output": "all"}
+{"instruction": "Show user number 327", "output": "search id=327"}
+{"instruction": "Delete the user with id 79", "output": "delete id=79"}
+{"instruction": "Kindly change user details from the database", "output": "INVALID"}
+{"instruction": "Create a user with id 3233, username sam33, and email sam33@yahoo.com", "output": "insert id=3233 username=sam33 email=sam33@yahoo.com"}
+{"instruction": "do something with user 10 from the database", "output": "INVALID"}
+{"instruction": "Provide all user accounts in the database", "output": "all"}
+{"instruction": "Erase user 18", "output": "delete id=18"}
