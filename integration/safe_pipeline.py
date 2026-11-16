@@ -3,7 +3,7 @@ import torch
 
 from integration.intent_router import rule_based_intent
 from src.tokenizer import Tokenizer
-from src.language_model import FourmulaMindLM
+from src.model.language_model import FourmulaMindLM
 from src.checkpoint import load_checkpoint
 
 from integration.argument_parser import build_safe_command

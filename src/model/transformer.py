@@ -1,7 +1,7 @@
 import torch.nn as nn
 
-from src.attention import MultiHeadAttention
-from src.feed_forward import FeedForward
+from src.model.attention import MultiHeadAttention
+from src.model.feed_forward import FeedForward
 
 
 class TransformerBlock(nn.Module):

@@ -28,7 +28,7 @@ if INTEGRATION_DIR not in sys.path:
 import torch
 
 from src.tokenizer import Tokenizer
-from src.language_model import FourmulaMindLM
+from src.model.language_model import FourmulaMindLM
 from src.checkpoint import load_checkpoint
 
 from validator import validate_and_translate

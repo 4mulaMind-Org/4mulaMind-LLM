@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from src.transformer import TransformerBlock
+from src.model.transformer import TransformerBlock
 
 
 class FourmulaMindLM(nn.Module):

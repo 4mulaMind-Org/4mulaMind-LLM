@@ -4,7 +4,7 @@ import random
 import torch
 
 from src.packet_dataset import PacketDataset
-from src.language_model import FourmulaMindLM
+from src.model.language_model import FourmulaMindLM
 from src.loss import LanguageModelLoss
 from src.trainer import Trainer
 

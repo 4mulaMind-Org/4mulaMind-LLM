@@ -8,7 +8,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 
 from src.tokenizer import Tokenizer
-from src.language_model import FourmulaMindLM
+from src.model.language_model import FourmulaMindLM
 
 
 # ============================================================
