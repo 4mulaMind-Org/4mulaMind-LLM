@@ -1,7 +1,7 @@
 import math
 import torch
 
-from src.packet_dataset import PacketDataset
+from src.data.packet_dataset import PacketDataset
 from src.tokenizer import Tokenizer
 from src.language_model import FourmulaMindLM
 from src.checkpoint import load_checkpoint

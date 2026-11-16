@@ -1,5 +1,5 @@
 from src.tokenizer import Tokenizer
-from src.dataset import TextDataset
+from src.data.dataset import TextDataset
 from src.language_model import FourmulaMindLM
 from src.evaluate import evaluate
 
