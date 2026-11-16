@@ -1,7 +1,7 @@
 from src.tokenizer import Tokenizer
 from src.language_model import FourmulaMindLM
 from src.training.checkpoint import load_checkpoint
-from src.generate import generate
+from src.inference.generate import generate
 
 
 # --------------------------------

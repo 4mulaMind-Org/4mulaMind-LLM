@@ -2,7 +2,7 @@ import torch
 
 from src.tokenizer import Tokenizer
 from src.language_model import FourmulaMindLM
-from src.generation import Generator
+from src.inference.generation import Generator
 
 
 # ============================================================
