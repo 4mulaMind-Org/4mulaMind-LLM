@@ -5,8 +5,8 @@ import torch
 
 from src.data.packet_dataset import PacketDataset
 from src.model.language_model import FourmulaMindLM
-from src.loss import LanguageModelLoss
-from src.trainer import Trainer
+from src.training.loss import LanguageModelLoss
+from src.training.trainer import Trainer
 
 
 # ============================================================

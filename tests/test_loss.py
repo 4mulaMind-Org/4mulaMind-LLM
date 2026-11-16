@@ -1,6 +1,6 @@
 import torch
 
-from src.loss import LanguageModelLoss
+from src.training.loss import LanguageModelLoss
 
 
 batch_size = 1

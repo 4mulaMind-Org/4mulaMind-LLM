@@ -5,7 +5,7 @@ import torch
 
 from src.tokenizer import Tokenizer
 from src.model.language_model import FourmulaMindLM
-from src.checkpoint import load_checkpoint
+from src.training.checkpoint import load_checkpoint
 
 
 TOKENIZER_PATH = "tokenizers/4mulamind_bpe.json"

@@ -29,7 +29,7 @@ import torch
 
 from src.tokenizer import Tokenizer
 from src.model.language_model import FourmulaMindLM
-from src.checkpoint import load_checkpoint
+from src.training.checkpoint import load_checkpoint
 
 from validator import validate_and_translate
 

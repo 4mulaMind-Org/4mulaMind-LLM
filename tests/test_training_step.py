@@ -1,7 +1,7 @@
 import torch
 
 from src.language_model import FourmulaMindLM
-from src.loss import LanguageModelLoss
+from src.training.loss import LanguageModelLoss
 
 
 # -----------------------------

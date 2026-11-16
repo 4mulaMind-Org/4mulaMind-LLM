@@ -4,7 +4,7 @@ import torch
 from src.data.packet_dataset import PacketDataset
 from src.tokenizer import Tokenizer
 from src.language_model import FourmulaMindLM
-from src.checkpoint import load_checkpoint
+from src.training.checkpoint import load_checkpoint
 
 
 # ============================================================
