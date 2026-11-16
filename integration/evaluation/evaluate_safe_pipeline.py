@@ -1,6 +1,6 @@
 import json
 
-from integration.safe_pipeline import (
+from integration.core.safe_pipeline import (
     load_intent_model,
     process_query,
 )

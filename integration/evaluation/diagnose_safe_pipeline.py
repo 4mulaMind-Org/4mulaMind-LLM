@@ -1,13 +1,13 @@
-from integration.safe_pipeline import (
+from integration.core.safe_pipeline import (
     load_intent_model,
     process_query,
 )
 
-from integration.intent_router import (
+from integration.core.intent_router import (
     rule_based_intent,
 )
 
-from integration.argument_parser import (
+from integration.core.argument_parser import (
     extract_id,
     extract_username,
     extract_email,

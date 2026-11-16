@@ -1,12 +1,12 @@
 import re
 import torch
 
-from integration.intent_router import rule_based_intent
+from integration.core.intent_router import rule_based_intent
 from src.tokenizer import Tokenizer
 from src.model.language_model import FourmulaMindLM
 from src.training.checkpoint import load_checkpoint
 
-from integration.argument_parser import build_safe_command
+from integration.core.argument_parser import build_safe_command
 
 # ============================================================
 # Paths

@@ -16,12 +16,12 @@ if str(PROJECT_ROOT) not in sys.path:
 # Imports
 # ============================================================
 
-from integration.safe_pipeline import (
+from integration.core.safe_pipeline import (
     load_intent_model,
     process_query,
 )
 
-from integration.executor import (
+from integration.core.executor import (
     execute_engine,
 )
 

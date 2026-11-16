@@ -1,7 +1,7 @@
 import json
 
-from integration.bridge import load_model, generate_command
-from integration.validator import validate_and_translate
+from integration.core.bridge import load_model, generate_command
+from integration.core.validator import validate_and_translate
 
 
 CHALLENGE_FILE = "integration/challenge_set.json"
